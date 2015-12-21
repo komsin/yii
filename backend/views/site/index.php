@@ -1,7 +1,7 @@
 <?php
 /* @var $this yii\web\View */
 
-$this->title = 'System Management';
+$this->title = 'System Management1234';
 ?>
 <div class="site-index">
 
